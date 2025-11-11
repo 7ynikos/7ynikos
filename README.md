@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 `Hi, I'm Pradyoth.`
 
-- 🔭 I’m currently studying *deep learning papers*
+- 🔭 I’m currently studying *Grade 10*
 - 🌱 I’m currently learning `gitub` and `C++`
 - ⚡ 2025 goals - improve my productivity, self discipline and learn time management (among other things)
 - 🗒️ here is [my blog](https://7ynikos.github.io) and [my resume](https://7ynikos.github.io/resume/index.html)
